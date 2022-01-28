@@ -35,6 +35,18 @@
   <defs
      id="defs2">
     <rect
+       x="173.19619"
+       y="497.45072"
+       width="148.45388"
+       height="45.577946"
+       id="rect6368" />
+    <rect
+       x="140.64052"
+       y="261.74763"
+       width="166.68506"
+       height="48.1824"
+       id="rect2810" />
+    <rect
        x="231.79641"
        y="326.85898"
        width="11.720043"
@@ -98,11 +110,47 @@
        y="0"><tspan
          x="141.21973"
          y="424.21896"
-         id="tspan31352">Bonne année 2022 !!!</tspan></text>
+         id="tspan16768">Bonne année 2022 !!!</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text27545"
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect27547)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2808"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect2810)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="25.151972"
+       y="68.909508"
+       id="text3388"><tspan
+         sodipodi:role="line"
+         id="tspan3386"
+         style="stroke-width:0.264583"
+         x="25.151972"
+         y="68.909508">A</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,55.472158,6.2018562)"
+       id="text6366"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6368);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="173.19531"
+         y="533.94438"
+         id="tspan16770">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.12383px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.228096"
+       x="22.010393"
+       y="138.48076"
+       id="text14720"
+       transform="scale(0.94118001,1.062496)"><tspan
+         sodipodi:role="line"
+         id="tspan14718"
+         style="stroke-width:0.228096"
+         x="22.010393"
+         y="138.48076">Je vous souhaite</tspan></text>
   </g>
 </svg>
